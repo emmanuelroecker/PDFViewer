@@ -1,0 +1,22 @@
+{
+	"name": "pdfviewer",
+	"version": "1.0.0",
+	"description": "Open PDF attachment file in a Thunderbird tab",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:emmanuelroecker/pdfviewer.git"
+	},
+	"bugs": {
+		"url": "https://github.com/emmanuelroecker/pdfviewer/issues"
+	},
+	"engines": {
+		"thunderbird": ">=60.0a1"
+	},
+	"dependencies": {
+		"pdfjs-dist": "2.0.943"
+	},
+	"scripts": {
+		"build": "./build.sh"
+	},
+	"license": "MPL-1.1"
+}

@@ -1,0 +1,8 @@
+_build
+gconv.jar
+.vimsession
+.DS_Store
+node_modules
+content/vendor/pdf*.js
+doc/todo.md
+

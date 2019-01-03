@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>pdfviewer@glicer</em:id>
+		<em:name>PDF Viewer</em:name>
+		<em:version>1.0</em:version>
+		<em:description>Open PDF attachment file in a Thunderbird tab</em:description>
+		<em:creator>Emmanuel ROECKER and Rym BOUCHAGOUR</em:creator>
+		<em:homepageURL>https://www.rymetemmanuel.fr/</em:homepageURL>
+		<em:iconURL>chrome://pdfviewer/skin/icon.png</em:iconURL>
+		<em:targetApplication>
+			<Description>
+				 <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+        				<em:minVersion>60.0a1</em:minVersion>
+        				<em:maxVersion>65.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+
+	</Description>
+
+</RDF>

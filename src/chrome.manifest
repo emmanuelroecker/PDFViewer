@@ -1,0 +1,6 @@
+overlay	chrome://messenger/content/msgHdrViewOverlay.xul	chrome://pdfviewer/content/openpdf.xul
+overlay chrome://messenger/content/messengercompose/messengercompose.xul	chrome://pdfviewer/content/openpdf.xul
+content	pdfviewer	content/
+locale	pdfviewer	en-US	locale/en-US/
+skin    pdfviewer   classic/1.0   skin/
+
