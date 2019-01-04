@@ -4,21 +4,21 @@
 
 This is the official source code for the [PDF Viewer (Thunderbird Add-on)](https://addons.thunderbird.net/fr/thunderbird/addon/pdf-viewer).
 
-This Thunderbird add-on open PDF attachment file in a embedded PDF Viewer in a new tab
+This Thunderbird add-on allows to open a PDF attachment file in an embedded PDF Viewer inside a new tab.
 
 This extension is inspired by : 
 * [OpenAttachmentByExtension](https://freeshell.de//~kaosmos/index-en.html#openattach)
 * [Thunderbird Conversations](https://addons.thunderbird.net/fr/thunderbird/addon/gmail-conversation-view/)
 
-This extension use [PDF.js](https://github.com/mozilla/pdf.js).
+This extension uses [PDF.js](https://github.com/mozilla/pdf.js).
 
 ## How it Works
 
 (after installing)
 
-This extension detect if the user try to open a attachement file with extension *.pdf* and automatically
-open the PDF file in a new tab in Thunderbird with embedded PDF Viewer rather open it 
-in the default viewer proposed by Operating System.
+This extension detects if the user tries to open an attachement file with an extension *.pdf* and automatically
+opens the PDF file inside a new Thunderbird tab using an embedded PDF Viewer rather than open it 
+using the operating system default viewer.
 
 ## Contributing
 
