@@ -4,10 +4,10 @@
 	"description": "Open PDF attachment file in a Thunderbird tab",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:emmanuelroecker/pdfviewer.git"
+		"url": "git@github.com:emmanuelroecker/PDFViewer.git"
 	},
 	"bugs": {
-		"url": "https://github.com/emmanuelroecker/pdfviewer/issues"
+		"url": "https://github.com/emmanuelroecker/PDFViewer/issues"
 	},
 	"engines": {
 		"thunderbird": ">=60.0a1"
