@@ -1,8 +1,8 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/emmanuelrkr)
 
-# [PDF Viewer](https://addons.thunderbird.net/fr/thunderbird/addon/pdf-viewer/)
+# [PDF Viewer](https://addons.thunderbird.net/fr/thunderbird/addon/pdfviewer/)
 
-This is the official source code for the [PDF Viewer (Thunderbird Add-on)](https://addons.thunderbird.net/fr/thunderbird/addon/pdf-viewer).
+This is the official source code for the [PDF Viewer (Thunderbird Add-on)](https://addons.thunderbird.net/fr/thunderbird/addon/pdfviewer).
 
 This Thunderbird add-on allows to open a PDF attachment file in an embedded PDF Viewer inside a new tab.
 
